@@ -12,7 +12,7 @@ type about struct {
 
 aboutMe := about{
     role:                 "IT Security Student",
-    languages:            []string{"Go", "Python", "C", "SQL"},
+    languages:            []string{"Go", "Python", "C", "Rust"},
     isGplv3BestLicense:   true,
     isFreeSoftwareGood:   true,
     isOpenSourceOnlyGood: false,
